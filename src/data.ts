@@ -7,10 +7,10 @@ export const PORTFOLIO_DATA: PortfolioData = {
   location: "Ahmedabad, India",
   email: "kanhavishwakarma2003@gmail.com",
   phone: "+91 95222 88085",
-  resume: "/assets/Kanha_Vishwakarma_Resume.pdf",
+  resume: "https://drive.google.com/file/d/1f7SIMzJF9Mn_kRAKmDR02FgWeMwFVc_B/view",
   social: {
     github: "https://github.com/Kan2003",
-    linkedin: "https://linkedin.com/in/kanha-vishwakarma",
+    linkedin: "https://www.linkedin.com/in/kanha-vishwakarma-3a6267225/",
     leetcode: "https://leetcode.com/u/kanha2003/",
   },
   hero: {
